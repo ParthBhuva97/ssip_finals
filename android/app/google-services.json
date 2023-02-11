@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240476768010",
+    "project_id": "ssip-database",
+    "storage_bucket": "ssip-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240476768010:android:4bd0f526acaa319d725cf3",
+        "android_client_info": {
+          "package_name": "com.example.jsk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240476768010-gc8fspss86moo13jslok2mrc26lc028g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtqraq-IB0MvJlWn92gf8zBgiGX0egXvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240476768010-gc8fspss86moo13jslok2mrc26lc028g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
